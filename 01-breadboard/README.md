@@ -3,10 +3,15 @@
 Use the ATmega328 to build Arduino on a Breadboard
 ## Documentation
 bullet point list
+* Basic knowledge of ATmega328
 * Connect the circuit
 * Use the Arduino IDE test the circuit
 
 numbered list
+
+**Basic knowledge of ATmega328**
+
+![picture description](./images/ATmega328.jpg)
 
 **1.All of the supplies**
 
@@ -28,7 +33,7 @@ Use two lines to link the two sides of the breadboard,assuring current can flow 
 
 **4.Add voltage regulator**
 
-Plug the Voltage Regulator and the capacitor to the breadboard,which can reduce the voltage from the external battery if the voltage is too high. And the capacitor can stablize the voltage in circuit.
+Plug the Voltage Regulator and the capacitor to the breadboard,which can reduce the voltage from the external battery if the voltage is too high. And the capacitor can stablize the voltage in circuit. 
 
 ![picture description](./images/Add-voltage-regulator.jpg)
 
