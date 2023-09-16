@@ -7,10 +7,14 @@ bullet point list
 * Use the Arduino IDE test the circuit
 
 numbered list
-1. To make an arduino on a breadboard,what we need is all there.
-   ![picture description](./images/All#of#the#supplies.jpg)
+
+**1.All of the supplies**
+
+To make an arduino on a breadboard,what we need is all there.
+
+![picture description](./images/All-of-the-supplies.jpg)
+ 
 3. item two
-4. item three
 
 **bold text**
 
