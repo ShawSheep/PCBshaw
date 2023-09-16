@@ -1,15 +1,10 @@
-# Assignment's Title
-
+# Arduino on a Breadboard
 ## Assignment's description
-Describe the assignment
-
+Use the ATmega328 to build Arduino on a Breadboard
 ## Documentation
-Describe the work you did to complete the assignment
-
 bullet point list
-* item one
-* item two
-* item three
+* Connect the circuit
+* Use the Arduino IDE test the circuit
 
 numbered list
 1. item one
