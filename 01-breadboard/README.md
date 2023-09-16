@@ -68,26 +68,8 @@ Use the Pin19 on the ATmega328(Pin13 on the Arduino Uno) to control the LED to f
 
 ![picture description](./images/Control-LED-02.jpg)
 
+**11.Adrduino IDE**
 
+Code test on Arduino IDE
 
-
-
-
-
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+![picture description](./images/Code.png)
