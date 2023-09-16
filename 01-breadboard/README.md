@@ -8,7 +8,7 @@ bullet point list
 
 numbered list
 1. To make an arduino on a breadboard,what we need is all there.
-   ![picture description](./images/All of the supplies.jpg)
+   ![picture description](./images/All#of#the#supplies.jpg)
 3. item two
 4. item three
 
