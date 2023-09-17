@@ -1,35 +1,20 @@
-# Assignment's Title
+# Hand-sketching components
 
 ## Assignment's description
-Describe the assignment
+Make a hand-drawn sketch of the basic electronic components used on the Arduino on a Breadboard.
 
 ## Documentation
-Describe the work you did to complete the assignment
+I choose the Voltage Regulator to make a hand-drawn sketch
 
 bullet point list
-* item one
-* item two
-* item three
+* Important Components
+* How it works
 
 numbered list
-1. item one
-2. item two
-3. item three
+1. Diodes
+2. Error Amplifuer
+3. Triode
+4. Resistence
+5. Internal simplified circuit
 
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+![picture description](./images/Voltage-Regulator.jpg)
