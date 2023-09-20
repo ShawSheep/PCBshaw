@@ -6,30 +6,11 @@ Experience data collection with digital and analog input devices. Pick one senso
 ## Documentation
 I choose the digital sensors include an infraded obstacle avoidance sensor and a touch sensor,and one analog sensor that is soil moisture sensor.
 
-bullet point list
-* item one
-* item two
-* item three
+**infraded obstacle avoidance sensor**
 
-numbered list
-1. item one
-2. item two
-3. item three
+The infraded obstacle avoidance sensor can detect if there has some obstacles,it can generate a low potential when I put my hand close to it,and a high potential if there is no obstacle.
 
-**bold text**
+![picture description](./images/Infrared-obstacle-avoidance.jpg)
+![picture description](./images/Infrared-obstacle-avoidance-high.jpg)
+![picture description](./images/digitalRead-low.png)
 
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
