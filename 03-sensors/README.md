@@ -1,10 +1,10 @@
-# Assignment's Title
+# Input devices try-out
 
 ## Assignment's description
-Describe the assignment
+Experience data collection with digital and analog input devices. Pick one sensor from a collection and try it out with the prototyping breadboard. Connect the sensor to the suitable pin-headers and test it with a program. Read the sensor’s data using the Serial Monitor. Repeat the exercise with one digital and one analog sensors. Understand how the sensor works and how data is collected and used.
 
 ## Documentation
-Describe the work you did to complete the assignment
+I choose the digital sensors include an infraded obstacle avoidance sensor and a touch sensor,and one analog sensor that is soil moisture sensor.
 
 bullet point list
 * item one
