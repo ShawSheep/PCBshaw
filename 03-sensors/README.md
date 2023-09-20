@@ -14,3 +14,10 @@ The infraded obstacle avoidance sensor can detect if there has some obstacles,it
 ![picture description](./images/Infrared-obstacle-avoidance-high.jpg)
 ![picture description](./images/digitalRead-low.png)
 
+**Touch sensor**
+
+That touch sensor can output digital or analog signal,when use the pin DO,the serial monitor can only receive 1 if we touch the sensor.When we use the pin AO,we can receive dignal from 0 to 1023,and it represent the amount of the pressure.
+
+![picture description](./images/Touch-sensor.jpg)
+![picture description](./images/Touch-sensor-circuit.jpg)
+
