@@ -23,7 +23,7 @@ That touch sensor can output digital or analog signal,when use the pin DO,the se
 
 **Soil moisture sensor**
 
-The soil moisture sensor can also output digtal and analog signal,the analog signal can apply for detection of soil humidity,and the wetter the soil,the lower the number that serial monitor receive
+The soil moisture sensor can also output digtal and analog signal,the analog signal can apply for detection of soil humidity,and the wetter the soil,the lower the number that serial monitor receive.
 
 ![picture description](./images/Soil-moisture-sensor.jpg)
 ![picture description](./images/Soil-moisture-sensor-low-humidity.jpg)
