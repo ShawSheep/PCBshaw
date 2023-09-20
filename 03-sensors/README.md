@@ -6,7 +6,7 @@ Experience data collection with digital and analog input devices. Pick one senso
 ## Documentation
 I choose the digital sensors include an infraded obstacle avoidance sensor and a touch sensor,and one analog sensor that is soil moisture sensor.
 
-**infraded obstacle avoidance sensor**
+**Infraded obstacle avoidance sensor**
 
 The infraded obstacle avoidance sensor can detect if there has some obstacles,it can generate a low potential when I put my hand close to it,and a high potential if there is no obstacle.
 
@@ -21,3 +21,12 @@ That touch sensor can output digital or analog signal,when use the pin DO,the se
 ![picture description](./images/Touch-sensor.jpg)
 ![picture description](./images/Touch-sensor-circuit.jpg)
 
+**Soil moisture sensor**
+
+The soil moisture sensor can also output digtal and analog signal,the analog signal can apply for detection of soil humidity,and the wetter the soil,the lower the number that serial monitor receive
+
+![picture description](./images/Soil-moisture-sensor.jpg)
+![picture description](./images/Soil-moisture-sensor-low-humidity.jpg)
+![picture description](./images/analogRead-low.png)
+![picture description](./Soil-moisture-sensor-high-humidity.jpg)
+![picture description](./images/analogRead-high.png)
