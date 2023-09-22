@@ -9,7 +9,14 @@ I go to the Sanhaowu with my phone and a magnifier to find some inspiration.
 When I enter there I see a cat nest. I think maybe some cat lovers put the nest there.
 ![picture description](./images/A-cat-nest-1.jpg)
 
-After I enter Sanhaowu,first I feel the cool and fresh air,I think the comfortable air comes from trees,grass,river.
+After I enter Sanhaowu,first I feel the cool and fresh air,I think the comfortable air comes from trees,grass,and the river.
+
+Then I turn my eyes to a flower,through the magnifier,in that flower,two ants crowl on it,I think there are nectar and dew atttract them. And I see a maggot twist its body in the flower.
+![picture description](./images/Flower-and-insects-1.jpg)
+
+I find a little white mushroom in the green,and in that position,I close my eyes and try to hear and smell,I can hear chirping of cicada,I record it because it is so unique at the junction of the quiet and noisy.I can smell the grass or leaves,which is so fresh that I even want to taste it.
+![picture description](./images/A-mushroom-1.jpg)
+
 
 bullet point list
 * item one
