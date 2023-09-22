@@ -1,7 +1,7 @@
-# Assignment's Title
+# Nature exploration
 
 ## Assignment's description
-Describe the assignment
+Engage in the deep observation of the ecosystem, focusing on the perception of ecological relationships. Try to obtain a “change of scale”, analysing how the environment is perceived by all five senses. Look at relationships between elements rather than single entities. Discuss and describe your findings with sketches, maps, text, etc. This activity may be repeated a few times during the course.
 
 ## Documentation
 Describe the work you did to complete the assignment
