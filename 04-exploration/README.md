@@ -17,6 +17,11 @@ Then I turn my eyes to a flower,through the magnifier,in that flower,two ants cr
 I find a little white mushroom in the green,and in that position,I close my eyes and try to hear and smell,I can hear chirping of cicada,I record it because it is so unique at the junction of the quiet and noisy.I can smell the grass or leaves,which is so fresh that I even want to taste it.
 ![picture description](./images/A-mushroom-1.jpg)
 
+When I pass by a big tree,I find a hole on its trunk.I am curious about how it forms.
+![picture description](./images/A-hole-on-a-tree.jpg)
+
+While I was walking in the little forest,suddenly I saw a cicada below a leaf,I think it is just a shell because it doesn't move.And maybe it just molted.
+![picture description](./images/A-cicade-shell-under-a-leaf.jpg)
 
 bullet point list
 * item one
