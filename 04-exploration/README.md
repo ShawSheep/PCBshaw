@@ -31,6 +31,18 @@ Before I leave SanHaowu,I notice some leaves along the river,the font side of th
 
 Throurh the exploration,I also have some thoughts.
 
-1. Before the feelings,we can think the relationships and some doubts in what I have prescribed. 
+1. Before the feelings,we can think the relationships and some doubts in what I have prescribed.
+                                      
+**The first one,why there is a hole on the trunk,I guess some insects eat the surface,or the tree get illed,but I can't assure what I guess.**
+
+**The second one,how the ants and maggots find thier food and water.**
+
+**The third one,why the mushroom just stay and live here,why other place can't.**
+
+**The fourth one,what the function of the chirping of the cicade,why it is so clear.**
+
+**The fifth one,why the two sides of the leaf are so different,how it works.**
+
 2. Maybe we can sense the food or water in animals' perspectives,we can also sense when to molt or any other.
 3. We can sense as a mushroom and to know where is suitable for my life.
+4. We can also become a tree to sense how a hole forms on my body.
