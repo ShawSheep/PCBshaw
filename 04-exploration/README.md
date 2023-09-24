@@ -29,15 +29,8 @@ In the middle of the forest,some trees and weeds hamber the road.
 Before I leave SanHaowu,I notice some leaves along the river,the font side of these leaves are normal,but the back side of them exsist a lot of spots,but through the magnifier,I think these spots are some tiny bugs.
 ![picture description](./images/Back-side-of-leaves.jpg)
 
+Throurh the exploration,I also have some thoughts.
 
-bullet point list
-* item one
-* item two
-* item three
-
-numbered list
-1. item one
-2. item two
-3. item three
-
-**bold text**
+1. Before the feelings,we can think the relationships and some doubts in what I have prescribed. 
+2. Maybe we can sense the food or water in animals' perspectives,we can also sense when to molt or any other.
+3. We can sense as a mushroom and to know where is suitable for my life.
