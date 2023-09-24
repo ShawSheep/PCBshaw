@@ -23,6 +23,13 @@ When I pass by a big tree,I find a hole on its trunk.I am curious about how it f
 While I was walking in the little forest,suddenly I saw a cicada below a leaf,I think it is just a shell because it doesn't move.And maybe it just molted.
 ![picture description](./images/A-cicade-shell-under-a-leaf.jpg)
 
+In the middle of the forest,some trees and weeds hamber the road.
+![picture description](./images/Weeds-block-the-road.jpg)
+
+Before I leave SanHaowu,I notice some leaves along the river,the font side of these leaves are normal,but the back side of them exsist a lot of spots,but through the magnifier,I think these spots are some tiny bugs.
+![picture description](./images/Back-side-of-leaves.jpg)
+
+
 bullet point list
 * item one
 * item two
@@ -34,5 +41,3 @@ numbered list
 3. item three
 
 **bold text**
-
-![picture description](./images/example.jpg)
