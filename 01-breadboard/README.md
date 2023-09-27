@@ -45,7 +45,7 @@ Plug one LED to the breadboard to detect if there have current in circuit and th
 
 **6.Add supporting power**
 
-Use wires to make sure that current can flow into the ATmega328. And use a resistence to prevent the chip from resetting itself during normal operation.
+Use wires to make sure that current can flow into the ATmega328. And use a resistence(10k) to prevent the chip from resetting itself during normal operation.
 
 ![picture description](./images/Add-supporting-power.jpg)
 
