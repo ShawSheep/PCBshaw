@@ -51,7 +51,7 @@ Use wires to make sure that current can flow into the ATmega328. And use a resis
 
 **7.Add a crystal oscillator**
 
-Add a crystal oscillator between the Pin9 and10,and add 2 capacitors between ground and the two Pins.
+Add a crystal oscillator between the Pin9 and10,and add 2 capacitors(22pf) between ground and the two Pins.
 
 ![picture description](./images/Add-a-crystal-oscillator.jpg)
 
