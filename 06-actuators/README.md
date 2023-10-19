@@ -11,7 +11,7 @@ bullet point list
 1. Control the lcd screen
    ![picture description](./images/I2c_helloshaw.jpg)
    
-   We use the example code from Arduino IDE,First we use the code"I2c scanner" to see the address of the lcd
+   We use the example code from Arduino IDE,First we use the code"I2c scanner" to see the address of the lcd.
    ![picture description](./images/I2c_scanner.png)
    We can see the address of the lcd is"0*20",so we change the address.
    
@@ -27,7 +27,12 @@ bullet point list
    ```
    lcd.clear();
    ```
-3. Control the servo motor
+2. Control the servo motor
+   ![picture description](./images/I2c_helloshaw.jpg)
+
+   We use the example code"Servo_knob" from Arduino IDE.
+
+   Rotate the knob of the transformer to control the servo motor.
  
 
 **bold text**
