@@ -28,7 +28,7 @@ bullet point list
    lcd.clear();
    ```
 2. Control the servo motor
-   ![picture description](./images/I2c_helloshaw.jpg)
+   ![picture description](./images/Servo_motor.jpg)
 
    We use the example code"Servo_knob" from Arduino IDE.
 
