@@ -4,6 +4,8 @@
 Engage in the deep observation of the ecosystem, focusing on the perception of ecological relationships. Try to obtain a “change of scale”, analysing how the environment is perceived by all five senses. Look at relationships between elements rather than single entities. Discuss and describe your findings with sketches, maps, text, etc. This activity may be repeated a few times during the course.
 
 ## Documentation
+*The first exploration*
+
 I go to the Sanhaowu with my phone and a magnifier to find some inspiration.
 
 When I enter there I see a cat nest. I think maybe some cat lovers put the nest there.
@@ -46,3 +48,5 @@ Throurh the exploration,I also have some thoughts.
 2. Maybe we can sense the food or water in animals' perspectives,we can also sense when to molt or any other.
 3. We can sense as a mushroom and to know where is suitable for my life.
 4. We can also become a tree to sense how a hole forms on my body.
+
+*The second exploration*
