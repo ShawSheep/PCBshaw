@@ -50,3 +50,11 @@ Throurh the exploration,I also have some thoughts.
 4. We can also become a tree to sense how a hole forms on my body.
 
 *The second exploration*
+
+We go to the Gongqing Forest park to explore more.The most interesting thing I feel is the phenomenon between air and grass.6
+
+On my exploration way in the park,I constantly touch the grass,wet grass and dry grass,grass under sunshine or in the shadow.
+
+Then I lie on a area of wet grass,I close my eyes and stretch my arms onto the grass with dew.I feel the dew penetrate my pants,soak my hans,and when I stand up,strangely the air is not as fresh as that when I lie down.
+
+I think maybe is because when I lie on the grass,the grass has a low temperature and high moisture so it makes the air fresher,or other reasons are even the smell and the colour.
