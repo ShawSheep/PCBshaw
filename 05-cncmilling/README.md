@@ -1,9 +1,9 @@
 # cncmilling
 ## Assignment's description
-Describe the assignment
+Have the first try of PCB totally by yourself,from design to milling,welding,testing.Open the door to the real PCB design.
 
 ## Documentation
-Describe the work you did to complete the assignment
+To finish the first PCB design work,I learn the application EasyEDA to design the board and connect circuit;I use the milling machine to cut the board;I weld the components to the board;I test my board by uploading the code from my computor.
 
 bullet point list
 * item one
