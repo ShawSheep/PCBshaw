@@ -11,9 +11,12 @@ bullet point list
 * item three
 
 numbered list
-1. item one
-2. item two
-3. item three
+1. Design the board on EasyEDA
+
+   First we add the components we need,then we define VCC and GND and we use wire to connect components,or we can name the wire and the same wire means they are connected.
+   ![picture description](./images/EasyEDA01.png)
+3. item two
+4. item three
 
 **bold text**
 
