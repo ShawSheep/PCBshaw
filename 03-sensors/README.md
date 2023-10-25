@@ -28,5 +28,5 @@ The soil moisture sensor can also output digtal and analog signal,the analog sig
 ![picture description](./images/Soil-moisture-sensor.jpg)
 ![picture description](./images/Soil-moisture-sensor-low-humidity.jpg)
 ![picture description](./images/analogRead-low.png)
-![picture description](./Soil-moisture-sensor-high-humidity.jpg)
+![picture description](./images/Soil-moisture-sensor-high-humidity.jpg)
 ![picture description](./images/analogRead-high.png)
