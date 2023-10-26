@@ -1,7 +1,7 @@
-# Assignment's Title
+# Prototyping
 
 ## Assignment's description
-Describe the assignment
+Ideation about the direction of final project and make prototype.
 
 ## Documentation
 Describe the work you did to complete the assignment
