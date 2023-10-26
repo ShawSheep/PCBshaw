@@ -28,14 +28,23 @@ numbered list
 2.Preparing for cutting
 
   We use the website to transfer the three pictures to cutting file.
+  ![picture description](./images/mods01.png)
+  Select the picture.
+  ![picture description](./images/mods02.png)
+  Choose the knife.
+  ![picture description](./images/mods03.png)
+  Adjust the origin x,y,z and change the button of save.
+  ![picture description](./images/mods05.png)
 
 3.Cut the board
 
-  We make sure the knife is 0.4mm and we cut trace at first,and we locate the x,y,z of the machine,after cutting trace we change the knife to 0.8mm and locate z again,then cut the hole and outline.
+  We make sure the knife is 0.4mm and we cut trace at first,and we locate the x,y,z of the machine,after cutting trace we change the knife to 0.8mm and locate z again,then cut the hole and outline.After cutting we pick it off and polish it.
+  ![picture description](./images/Machine.jpg)
 
 4.Weld the Sheepino
 
-  We use the iron to weld components onto the board
+  We use the iron to weld components onto the board.And that's my board--Sheepino.
+  ![picture description](./images/Sheepino.jpg)
 
 **bold text**
 
