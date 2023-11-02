@@ -1,3 +1,6 @@
+capacitor between the USB and the board,balance the speed of computor and the board
+5v connects the RESET,let the board know it should work
+
 # Student's documentation template
 
 ## About
