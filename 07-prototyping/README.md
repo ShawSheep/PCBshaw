@@ -1,11 +1,12 @@
 # Prototyping
 
 ## Assignment's description
-Ideation about the direction of final project and make prototype.
+To make a quick prototyping to Assist in the design of the final project
 
 ## Documentation
-Describe the work you did to complete the assignment
+I use the wire net to make a cylinder with my sheepino and the sensor and fans
 
+![picture description](./images/prototyping.jpg)
 bullet point list
 * item one
 * item two
