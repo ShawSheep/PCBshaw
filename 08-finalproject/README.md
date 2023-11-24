@@ -18,8 +18,7 @@ Hence, I created this installation with the aim of fostering an understanding of
 **Design process**
 
 1.PCB design
-I design the PCB on the website [JLC]([https://www.https://www.example.com/](https://pro.easyeda.com/editor#id=9f7ab018919d4014a39773ab13a93a81,tab=*7a0079556f8841eea47b4750b8cfba77@9f7ab018919d4014a39773ab13a93a81))
-
+I design the PCB on the website [JLC]([[https://www.https://www.easyeda.com/](https://u.easyeda.com/join?type=project&key=e5bc68bd89fe7736b408419208a81734&inviter=0b2f2d0728e34afbad0e878310027419)]
 
 **bold text**
 
