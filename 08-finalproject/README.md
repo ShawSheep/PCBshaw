@@ -1,10 +1,11 @@
-# Assignment's Title
+# Finalproject
 
 ## Assignment's description
-Describe the assignment
-
+After eight weeks learning and exploration,we finally finish the project
 ## Documentation
-Describe the work you did to complete the assignment
+The initial inspiration came from a visit to the Youth Forest Park. As I lay on a grassy field, closing my eyes to immerse myself in the surroundings, I felt the air around me growing cooler. After conducting research, I discovered that part of the reason for the cooler air was the plant's life activities causing a localized temperature drop, creating subtle air currents. Another reason was the gradual tranquility of the mind after interacting with plants, establishing a resonance.
+
+Hence, I created this installation with the aim of fostering an understanding of the connection between the essence of plants and the human spirit. It senses human emotions through breathing frequency, activating when individuals slow their breath and take three to five deep breaths in its direction. The installation then initiates a gentle breeze, causing the plants to sway, providing a soothing and relaxing experience, generating a delicate resonance with nature.
 
 bullet point list
 * item one
