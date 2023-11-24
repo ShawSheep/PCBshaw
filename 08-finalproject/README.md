@@ -12,11 +12,13 @@ Hence, I created this installation with the aim of fostering an understanding of
 **Design description**
 
 **自然共鸣**旨在通过装置化的植物互动，让人们重新感知城市生态与心情之间的深刻联系。装置通过呼吸频率感知人的心情，当人放慢呼吸节奏时，装置便会启动，让植物摆动并产生柔和微风，为人们带来安抚和放松，产生与植物的微妙共鸣
+
 **FLORA RESONANCE** aims to allow people to rediscover the profound connection between urban ecology and emotions through interactive plant installations. The system senses people's emotional states by their breathing frequency. When individuals slow down their breathing rhythm, the device activates, causing the plants to sway and create a gentle breeze, offering solace and relaxation, establishing a delicate resonance with the plants.
 
 **Design process**
 
-1.
+1.PCB design
+I design the PCB on the website [JLC]([https://www.https://www.example.com/](https://pro.easyeda.com/editor#id=9f7ab018919d4014a39773ab13a93a81,tab=*7a0079556f8841eea47b4750b8cfba77@9f7ab018919d4014a39773ab13a93a81))
 
 
 **bold text**
