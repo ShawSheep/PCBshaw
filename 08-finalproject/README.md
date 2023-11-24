@@ -17,23 +17,92 @@ Hence, I created this installation with the aim of fostering an understanding of
 
 **Design process**
 
-1.PCB design
+**1.PCB design**
 I design the PCB on the website [JLC]([[https://www.https://www.easyeda.com/](https://u.easyeda.com/join?type=project&key=e5bc68bd89fe7736b408419208a81734&inviter=0b2f2d0728e34afbad0e878310027419)]
 
-**bold text**
+The schematic picture of my PCB
+![picture description](./images/schematic.png)
+![picture description](./images/PCB.png)
 
-*italic text*
+**2.Soldering the PCB**
 
-***italic and bold text***
+The board delivered from factory
+![picture description](./images/board_back.jpg)
+The board soldered by myself
+![picture description](./images/board_front.jpg)
 
-example of an external link
+**3.Device design**
+Start with some sketchs
+![picture description](./images/sketch.jpg)
+Make an iteration of two versions
+![picture description](./images/modle_1.jpg)\
+The final laser cutting file
+![picture description](./images/modle_2.png)
+Use acrylic to assemble my device
+![picture description](./images/arcylic.jpg)
+Plant some grass in my device
+![picture description](./images/plant_seeds.jpg)
+Consolidate the device
+![picture description](./images/fix_the_box.jpg)
+The outcomes
+![picture description](./images/device_2.jpg)
+![picture description](./images/device_3.jpg)
+![picture description](./images/device_4.jpg)
+Interact with the device
+![picture description](./images/device_1.jpg)
+![picture description](./images/device_5.jpg)
+**4.Coding**
+```
+volatile int flow_frequency; // Measures flow sensor pulses
+int blowTime = 0;
+float l_sec; // Calculated litres/hour
+unsigned char flowsensor = 2; // Sensor Input
+unsigned long currentTime;
+unsigned long cloopTime;
+long cm, inches;
+void flow () // Interrupt function
+{
+   flow_frequency++;
+}
+void setup()
+{
+   pinMode(9,OUTPUT);
+   pinMode(flowsensor, INPUT);
+   digitalWrite(flowsensor, HIGH); // Optional Internal Pull-Up
+   Serial.begin(9600);
+   attachInterrupt(0, flow, RISING); // Setup Interrupt
+   sei(); // Enable interrupts
+   currentTime = millis();
+   cloopTime = currentTime;
+}
+void loop ()
 
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+{
+   currentTime = millis();
+   // Every second, calculate and print litres/hour
+   if(currentTime >= (cloopTime + 400))
+   {
+      cloopTime = currentTime; // Updates cloopTime
+      // Pulse frequency (Hz) = 7.5Q, Q is flow rate in L/min.
+      l_sec = (flow_frequency * 1 / 7.5); // (Pulse frequency x 60 min) / 7.5Q = flowrate in L/hour
+      flow_frequency = 0; // Reset Counter
+      if(blowTime <= 16)
+      {
+        if(l_sec > 2)
+        {
+          blowTime = blowTime + 1;
+        }
+      }
+      else
+      {
+        digitalWrite(9,HIGH);
+        delay(16000);
+        blowTime = 0;
+        digitalWrite(9,LOW);
+      }
+      Serial.print(l_sec, DEC); // Print litres/hour
+      Serial.println(" L/s");
+      Serial.println();
+   }
+}
+```
